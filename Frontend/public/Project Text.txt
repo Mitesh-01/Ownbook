@@ -1,0 +1,5 @@
+React Props :
+
+In React, "props" (Properties) are a way to pass data from a parent component to a child component.
+
+props allows, components to be dynamic and flexiable, once they receive different data and render accordingly.

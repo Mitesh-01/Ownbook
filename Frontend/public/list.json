@@ -1,0 +1,98 @@
+[   
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 2,
+        "name": "Mystery Novel",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 299,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 3,
+        "name": "Science Fiction",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 4,
+        "name": "Historical Novel",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 249,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy Adventure",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 6,
+        "name": "Romantic Novel",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 279,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 7,
+        "name": "Biography",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 349,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 8,
+        "name": "Self Help",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 9,
+        "name": "Children's Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 10,
+        "name": "Cookbook",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 349,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 11,
+        "name": "Travelogue",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    },
+    {
+        "id": 12,
+        "name": "Philosophy",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/red-text-book-closed-icon_18591-82397.jpg?ga=GA1.1.1357787235.1707147970&semt=ais_hybrid"
+    }
+]
